@@ -1,4 +1,7 @@
 ![yamdb_workflow](https://github.com/emelyaart/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+===
+[Демо проекта](https://emelyaart.online)
+===
 # Проект YamDB
 - Проект YaMDb собирает отзывы пользователей на произведения.  
 - Произведения делятся на категории: «Книги», «Фильмы», «Музыка». 
